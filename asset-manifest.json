@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/018_intro-dropdown/static/css/main.7ac13c04.css",
+    "main.js": "/018_intro-dropdown/static/js/main.5e2088a4.js",
+    "static/media/image-hero-desktop.png": "/018_intro-dropdown/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/018_intro-dropdown/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "static/media/client-databiz.svg": "/018_intro-dropdown/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
+    "static/media/client-maker.svg": "/018_intro-dropdown/static/media/client-maker.3859368b1ba7e579d814353870c9edb0.svg",
+    "static/media/client-meet.svg": "/018_intro-dropdown/static/media/client-meet.2d6ffbad4108ea24377c66fe7655736e.svg",
+    "static/media/client-audiophile.svg": "/018_intro-dropdown/static/media/client-audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "index.html": "/018_intro-dropdown/index.html",
+    "static/media/icon-reminders.svg": "/018_intro-dropdown/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
+    "static/media/icon-planning.svg": "/018_intro-dropdown/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
+    "static/media/icon-calendar.svg": "/018_intro-dropdown/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
+    "static/media/icon-todo.svg": "/018_intro-dropdown/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
+    "main.7ac13c04.css.map": "/018_intro-dropdown/static/css/main.7ac13c04.css.map",
+    "main.5e2088a4.js.map": "/018_intro-dropdown/static/js/main.5e2088a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac13c04.css",
+    "static/js/main.5e2088a4.js"
+  ]
+}
